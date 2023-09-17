@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/PaperCheck/src/main/java/com/azhu/utils/SimHashUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PaperCheck/src/test/java/com/azhu/utils/HammingUtilsTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PaperCheck/src/test/java/com/azhu/utils/ShortStringExceptionTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PaperCheck/src/test/java/com/azhu/utils/SimHashUtilsTest.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
